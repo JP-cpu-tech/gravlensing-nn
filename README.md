@@ -20,3 +20,6 @@ To maintain absolute academic transparency, the workflow for this project was di
 ## Repository Contents
 * `lensing_neural_network.ipynb` - The complete Google Colab notebook containing data loops and model structures.
 * `/results` - Saved loss curves and model prediction outputs.
+
+# Results 
+<img width="1390" height="515" alt="image" src="https://github.com/user-attachments/assets/c55467f6-9194-4f1b-92b5-ca080fd6b450" />
